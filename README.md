@@ -1,4 +1,4 @@
-# 多语言站点地图生成器
+# Wordpress多语言站点地图生成器
 
 > **语言 / Languages:** [简体中文](README.md) · [English](README-en.md)
 
