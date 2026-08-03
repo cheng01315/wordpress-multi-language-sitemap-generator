@@ -1,6 +1,6 @@
 # 多语言站点地图生成器
 
-> **语言 / Languages:** [简体中文](README.zh_CN.md) · [English](README.md)
+> **语言 / Languages:** [简体中文](README.md) · [English](README-en.md)
 
 适用于 **TranslatePress**（以及其他基于 URL 前缀的多语言插件）的辅助插件。
 
